@@ -5,10 +5,14 @@ body, h1, h2, h3, p, ul, li {
 }
 
 body {
-    font-family: cursive, handwriting;
-    background-color: peachpuff;
-    color: #381a09;
-}
+            font-family: cursive, handwriting;
+            background-image: url('https://static.vecteezy.com/system/resources/previews/002/796/950/large_2x/abstract-blur-and-defocused-coffee-shop-cafe-and-restaurant-interior-free-photo.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: #381a09;
+            
+        }
 
 header {
     background-color: brown;
