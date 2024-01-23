@@ -2,14 +2,12 @@
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
-    font-size: 30px;
 }
-
 
 body {
             font-family: cursive, handwriting;
             background-image: url('https://static.vecteezy.com/system/resources/previews/002/796/950/large_2x/abstract-blur-and-defocused-coffee-shop-cafe-and-restaurant-interior-free-photo.jpg');
-            background-size: cover;
+            background-size: auto 90%;
             background-position: center;
             background-repeat: no-repeat;
             color: #381a09;
@@ -58,7 +56,6 @@ nav a {
     font-size: 30px;
 }
 
-
 nav a:hover {
     color: #7e685b;
 }
@@ -97,6 +94,7 @@ nav a:hover {
 .menu {
     padding: 100px 0;
     text-align: center;
+    color: black;
 }
 
 .menu h2 {
@@ -144,4 +142,11 @@ footer {
     color: white;
     text-align: center;
     padding: 20px 0;
+}
+button[type="submit"] {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
 }
