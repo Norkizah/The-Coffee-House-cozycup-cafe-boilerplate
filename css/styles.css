@@ -25,6 +25,10 @@ nav {
 .logo img {
     max-width: 125px;
 }
+.team-member img {
+    width: 150px; 
+    height: auto; 
+}
 
 .Logo1 img {
     max-width: 250px;
