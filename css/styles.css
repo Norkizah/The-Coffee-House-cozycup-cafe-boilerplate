@@ -29,6 +29,10 @@ nav {
     width: 150px; 
     height: auto; 
 }
+.member img {
+    width: 170px; 
+    height: auto; 
+}
 
 .Logo1 img {
     max-width: 250px;
