@@ -11,7 +11,10 @@ Some details are fictional to potray the possible webpage design and layout whil
 
 modified: 
 - **Shop name**
-- **Menu**
+- **header style and font-size**
+- **all rights reserved footer**
+- **contact email**
+- **Menu and each description**
 - **Team members/owners**
 - **Footer**
 - **added subscribe, navigations, Contact and address**
