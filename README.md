@@ -18,5 +18,5 @@ modified:
 - **background image of interior coffee shop**
 - **New logos**
 - **added Images**
-- **as of now with 42 commits**
+
 
