@@ -1,7 +1,7 @@
 # The-Coffee-House-cozycup-cafe-boilerplate
 
 Mikhaela and Norkizah's cafe collaboration
-- _ **Mikay:** Co-owner
+- _**Mikay:** Co-owner
 - _ **Norkizah:** Owner
 - _ **BSIT3B1** Owner
   
