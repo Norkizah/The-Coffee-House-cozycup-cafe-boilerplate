@@ -21,6 +21,6 @@ modified:
 - **added subscribe, navigations, Contact and address**
 - **background image of interior coffee shop**
 - **New logos**
-- **added Images**
+- **Map, contact form and added Images**
 
 
