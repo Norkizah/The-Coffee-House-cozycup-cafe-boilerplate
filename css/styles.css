@@ -94,12 +94,24 @@ nav a:hover {
 .menu {
     padding: 100px 0;
     text-align: center;
-    color:  rgb(0, 251, 255);
+    color: rgb(0, 251, 255);
 }
 
+.price {
+    display: inline-block;
+    background-color: #c2f2aa;
+    padding: 3px;
+    border-radius: 8px;
+    font-size: 15px;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
 .menu h2 {
     font-size: 30px;
     margin-bottom: 20px;
+    
 }
 
 .about {
