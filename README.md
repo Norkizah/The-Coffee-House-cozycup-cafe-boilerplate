@@ -3,14 +3,21 @@
 "Welcome to our cozy coffee shop, where we serve the perfect blend of rich, aromatic coffee and delightful pastries. Whether you're looking for a quick pick-me-up or a place to unwind, our friendly baristas are here to create a memorable coffee experience just for you. Step into our inviting ambiance and let the aroma of freshly brewed coffee awaken your senses. Indulge in our carefully crafted beverages and savor the moments of pure bliss. Join us at our coffee shop and let us be your daily dose of happiness."
 
 # Features
--  **Menu items** 
--  **Team members** 
--  **About us** 
--  **Contact page** 
--  **Mapping** 
--  **Subscribe** 
--  **Home page** 
--  **Contact form** 
+- **Home:**
+    - Contains Cafe's brand name and tagline.
+    - Navigation links to the rest of features.
+
+- **Menu:**
+    - Contains the cafe's coffee and pastries menu
+    - Product Costs and descriptions
+
+- **About Us:**
+    - Contains team members' informations
+    - Cafe's history
+
+- **Contact page:**
+    •Email address, map and address of the cafe, subscription, newsletter and contact form for customer's feedback.
+
 
 ## Screen Captures 
 ![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc1.png)
