@@ -13,11 +13,19 @@
 -  **Contact form** 
 
 # Screen Captures 
-![img](The-Coffee-House-cozycup-cafe-boilerplate\img\sc 1.png)
+![IMG](The-Coffee-House-cozycup-cafe-boilerplate\img\sc 1.png)
+<br>
 This image contains the look of cafe's Home page.
+
+![IMG](The-Coffee-House-cozycup-cafe-boilerplate\img\sc 2.png)
 <br>
-![img](The-Coffee-House-cozycup-cafe-boilerplate\img\sc 2.png)
 This image contains the look of cafe's Coffee Menu.
+
+![IMG](The-Coffee-House-cozycup-cafe-boilerplate\img\sc 2.png)
 <br>
-![img](The-Coffee-House-cozycup-cafe-boilerplate\img\sc 2.png)
-This image contains the look of cafe's Coffee Menu.
+This image contains the look of cafe's Team members. 
+
+![IMG](The-Coffee-House-cozycup-cafe-boilerplate\img\sc 2.png)
+<br>
+This image contains the look of cafe's contact page, map and forms. 
+
