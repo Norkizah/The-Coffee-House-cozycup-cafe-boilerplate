@@ -16,7 +16,7 @@
     - Cafe's history
 
 - **Contact page:**
-    •Email address, map and address of the cafe, subscription, newsletter and contact form for customer's feedback.
+    - Email address, map and address of the cafe, subscription, newsletter and contact form for customer's feedback.
 
 
 ## Screen Captures 
