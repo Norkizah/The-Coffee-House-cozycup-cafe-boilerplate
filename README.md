@@ -4,19 +4,9 @@
 
 # Features
 - **Home:**
-    - Contains Cafe's brand name and tagline.
-    - Navigation links to the rest of features.
-
 - **Menu:**
-    - Contains the cafe's coffee and pastries menu
-    - Product Costs and descriptions
-
 - **About Us:**
-    - Contains team members' informations
-    - Cafe's history
-
 - **Contact page:**
-    - Email address, map and address of the cafe, subscription for newsletter and contact form for customer's feedback.
 
 
 ## Screen Captures 
