@@ -42,7 +42,7 @@ Email: 202080016@psu.palawan.edu.ph
 <a href="https://github.com/Norkizah"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Black/Github_black.png"></a>
 </div>
 
-<img src="https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/baute.jpg" alt="baute>"
+<img src="https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/barista.jpg" alt="barista"
 style="border-radius: 50%; width: 150">
 
 Name: Mikhaela D. Pastor
