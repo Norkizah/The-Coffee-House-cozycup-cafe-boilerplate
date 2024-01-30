@@ -27,5 +27,5 @@ This image contains the look of cafe's Team members.
 
 ![IMG](The-Coffee-House-cozycup-cafe-boilerplate\img\sc 2.png)
 <br>
-This image contains the look of cafe's contact page, map and forms. 
+This image contains the look of cafe's contact page, map and forms.
 
