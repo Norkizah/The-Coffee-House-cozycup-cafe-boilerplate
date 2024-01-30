@@ -12,7 +12,7 @@
 -  **Home page** 
 -  **Contact form** 
 
-# Screen Captures 
+## Screen Captures 
 ![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc1.png)
 <br>
 This image contains the look of cafe's Home page.
