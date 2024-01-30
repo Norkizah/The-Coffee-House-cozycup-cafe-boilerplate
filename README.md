@@ -22,15 +22,15 @@
 ## Screen Captures 
 ![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc1.png)
 <br>
-This image contains the look of cafe's Home page.
+This image contains the look of cafe's home page.
 
 ![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc2.png)
 <br>
-This image contains the look of cafe's Coffee Menu.
+This image contains the look of cafe's menu.
 
 ![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc3.png)
 <br>
-This image contains the look of cafe's Team members. 
+This image contains the look of cafe's team members. 
 
 ![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc4.png)
 <br>
