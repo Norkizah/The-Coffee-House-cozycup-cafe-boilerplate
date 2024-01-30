@@ -17,7 +17,7 @@
 <br>
 This image contains the look of cafe's Home page.
 
-![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc2.pnghttps://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc2.png)
+![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc2.png)
 <br>
 This image contains the look of cafe's Coffee Menu.
 
