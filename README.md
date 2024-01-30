@@ -13,7 +13,7 @@
 -  **Contact form** 
 
 # Screen Captures 
-![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc%251.png)
+![img](The-Coffee-House-cozycup-cafe-boilerplate\img\sc1.png)
 <br>
 This image contains the look of cafe's Home page.
 
