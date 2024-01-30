@@ -17,15 +17,15 @@
 <br>
 This image contains the look of cafe's Home page.
 
-![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc%252.png)
+![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc2.png)
 <br>
 This image contains the look of cafe's Coffee Menu.
 
-![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc%253.png)
+![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc3.png)
 <br>
 This image contains the look of cafe's Team members. 
 
-![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc%254.png)
+![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc4.png)
 <br>
 This image contains the look of cafe's contact page, map and forms.
 
