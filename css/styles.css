@@ -8,7 +8,7 @@ body {
             font-family: cursive, handwriting;
             background-image: url('https://static.vecteezy.com/system/resources/previews/002/796/950/large_2x/abstract-blur-and-defocused-coffee-shop-cafe-and-restaurant-interior-free-photo.jpg');
             background-size: auto 90%;
-            background-position: center;
+            background-position: cover;
             background-repeat: no-repeat;
             color: #381a09;
             
