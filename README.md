@@ -13,19 +13,19 @@
 -  **Contact form** 
 
 # Screen Captures 
-![img](The-Coffee-House-cozycup-cafe-boilerplate\img\sc1.png)
+![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc1.png)
 <br>
 This image contains the look of cafe's Home page.
 
-![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc2.png)
+![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc2.pnghttps://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc2.png)
 <br>
 This image contains the look of cafe's Coffee Menu.
 
-![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc3.png)
+![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc3.png)
 <br>
 This image contains the look of cafe's Team members. 
 
-![img](The-Coffee-House-cozycup-cafe-boilerplate/img/sc4.png)
+![img](https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/sc4.png)
 <br>
 This image contains the look of cafe's contact page, map and forms.
 
