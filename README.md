@@ -29,3 +29,26 @@ This image contains the look of cafe's Team members.
 <br>
 This image contains the look of cafe's contact page, map and forms.
 
+#### About the Authors 
+
+<img src="https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/baute.jpg" alt="baute>"
+style="border-radius: 50%; width: 150">
+
+Name: Norkizah M. Baute
+Email: 202080016@psu.palawan.edu.ph
+
+<div>
+<a href="https://www.facebook.com/norkizah.baute.9"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png"></a>
+<a href="https://github.com/Norkizah"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Black/Github_black.png"></a>
+</div>
+
+<img src="https://github.com/Norkizah/The-Coffee-House-cozycup-cafe-boilerplate/blob/main/img/baute.jpg" alt="baute>"
+style="border-radius: 50%; width: 150">
+
+Name: Mikhaela D. Pastor
+Email: 202080095@psu.palawan.edu.ph
+
+<div>
+<a href="https://www.facebook.com/mikhaela.pastor"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png"></a>
+<a href="https://github.com/MikaY66"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Black/Github_black.png"></a>
+</div>
